@@ -1,9 +1,8 @@
 package main
 
 import (
+	arrayoprations "basic/array_oprations"
 	"fmt"
-
-	arrayoprations "github.com/RohithER12/array_oprations"
 )
 
 func main() {

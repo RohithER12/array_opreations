@@ -1,2 +1,2 @@
-module github.com/RohithER12
+module basic
 go 1.21.0
