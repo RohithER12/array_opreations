@@ -1,8 +1,9 @@
 package arrayoprations_test
 
 import (
-	arrayoprations "basic/array_oprations"
 	"testing"
+
+	arrayoprations "github.com/RohithER12/array_opreations/arrayoprations/array_oprations"
 )
 
 func TestSumInt(t *testing.T) {
