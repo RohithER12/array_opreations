@@ -3,7 +3,7 @@ package arrayoprations_test
 import (
 	"testing"
 
-	arrayoprations "github.com/RohithER12/array_opreations/arrayoprations/array_oprations"
+	"github.com/RohithER12/array_opreations/arrayoprations"
 )
 
 func TestSumInt(t *testing.T) {
